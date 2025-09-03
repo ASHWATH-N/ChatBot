@@ -28,22 +28,22 @@ const Main = () => {
                 </div>
                 <div className="cards">
                     <div className="card">
-                        <p>Suggest beautioful palces</p>
+                        <p>Suggest beautiful places</p>
                         <img src={assets.compass_icon} alt="" />
                     </div>
 
                 <div className="card">
-                    <p>summarixe the consggt</p>
+                    <p>Briefly summarize this concept : urban planning</p>
                     <img src={assets.bulb_icon} alt="" />
                 </div>
 
                 <div className="card">
-                    <p>brainfg kkhtema ideas</p>
+                    <p>Brainstorm team bonding activities for our work retreat</p>
                     <img src={assets.message_icon} alt="" />
                 </div>
 
                 <div className="card">
-                    <p>nisjfjs  kdhfjkshd jhsfdjk</p>
+                    <p>Improve the readability of the following code</p>
                     <img src={assets.code_icon} alt="" />
                 </div>
             </div>
@@ -78,7 +78,7 @@ const Main = () => {
                     </div>
                     
                 </div>
-                <p className='bottom-info'>gemini may display jkshdjkfhsdk kjdshfjksdh  kdhfkjsh kj ksdh kjsdh  kjhhsd jkfh skjd khfkeoifu eiyu </p>
+                <p className='bottom-info'>gemini may display inaccurate info, including about people, so double check its responses. Your privacy and gemini apps</p>
             </div>
         </div>
     </div>

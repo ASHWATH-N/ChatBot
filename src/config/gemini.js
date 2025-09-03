@@ -4,7 +4,7 @@ import {
     GoogleGenerativeAI,
     HarmCategory,
     HarmBlockThreshold,
-  } from "@google/generative-ai"
+  } from "@google/generative-ai";
 
   const MODEL_NAME = "gemini-2.5-pro";
   const API_KEY = "AIzaSyBOPaxtUz8knTiuEIcjIS-FL9-5HUaOly4";
